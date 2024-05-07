@@ -1,8 +1,7 @@
 Social Media
 
 
-<a href="https://www.facebook.com/josiahhhh8/" rel="nofollow"><img src="[![JOSIAH DANIELLE GALLENERO](https://github.com/josiahgallenero/README/blob/main/assets/137091516/93b5c556-60c2-4f1c-bfff-b3273b3c3e87.jpg)](https://www.facebook.com/josiahhhh8/)
-" data-canonical-src="https://img.shields.io/badge/carlcastanas-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.facebook.com/josiahhhh8/" rel="nofollow"><img src="" data-canonical-src="https://img.shields.io/badge/carlcastanas-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
 
